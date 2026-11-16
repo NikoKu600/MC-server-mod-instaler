@@ -1,1 +1,1 @@
-# MC-server-mod-instaler
+# MC server mod instaler
